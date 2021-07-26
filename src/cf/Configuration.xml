@@ -202,6 +202,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Валюта</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
